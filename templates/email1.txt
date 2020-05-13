@@ -1,0 +1,7 @@
+This is a test email,
+
+Here is a new line.
+
+Here are some special characters
+
+<h2> Here's some html </h2>
