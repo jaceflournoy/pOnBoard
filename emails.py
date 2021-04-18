@@ -9,7 +9,7 @@ def email1(filename):
     file = open("./Templates/" + filename, "r")
     contents = file.read()
     mail = outlook.CreateItem(0)
-    mail.To = 'jacehflournoy@gmail.com'
+    mail.To = 'test@test.com'
     mail.CC = "test@test.com"
     mail.Subject = 'Message subject'
     mail.Body = contents
